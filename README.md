@@ -1,7 +1,7 @@
 # 🚀 Prathamesh Wadekar — Developer Portfolio Pitch
 ### Full-Stack .NET Developer | ASP.NET Core & Web Forms | CRM & ERP Systems | 3D Web
 
-> **GitHub:** [github.com/PrathameshDET](https://github.com/prathamesh6678) | **Email:** prathamesh6678@gmail.com | **Phone:** +91 9137131684  
+> **GitHub:** [github.com/prathamesh6678](https://github.com/prathamesh6678) | **Email:** prathamesh6678@gmail.com | **Phone:** +91 9137131684  
 > **Location:** Kandivali, Mumbai - India  
 > **Specialties:** ASP.NET Core · ASP.NET Web Forms · C# · MSSQL/MySQL · Razorpay · Dynamic PDFs
 

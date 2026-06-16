@@ -362,7 +362,3 @@ Whether you need:
 **I'm ready to make it happen.**
 
 > 📧 Reach me via GitHub: [Prathamesh](https://github.com/prathamesh6678)
-
----
-
-*Pitch prepared by Antigravity AI — based on live GitHub analysis and local workspace audit of Prathamesh Wadekar's project portfolio as of June 2026.*
